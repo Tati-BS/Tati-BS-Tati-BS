@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Tatiane Barbosa 
 
 Sou Estudante de Análise e Desenvolvimento de Sistemas e estou em constante evolução na área de tecnologia. Desenvolvo projetos acadêmicos e pessoais para colocar em prática os conhecimentos adquiridos em HTML, CSS, JavaScript, Python, PHP, Banco de Dados e Power BI. Tenho facilidade para aprender novas tecnologias, gosto de trabalhar em equipe e estou pronta para iniciar minha carreira como Desenvolvedora Web.
+___
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -53,6 +54,7 @@ Sou Estudante de Análise e Desenvolvimento de Sistemas e estou em constante evo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br/>
 <br/>
 
 ### 📊 Estatísticas
