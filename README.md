@@ -64,7 +64,6 @@ ___
    align="left" 
    alt="GitHub Stats" 
    height="200" 
-   style="padding-left: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tati-BS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
